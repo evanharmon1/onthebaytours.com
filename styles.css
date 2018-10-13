@@ -19,7 +19,8 @@ h1 {
 
 #carouselExampleIndicators {
     width: 100%;
-    min-width: 600px;
+    min-width: 350px;
+    max-width: 800px;
     margin: auto;
 }
 
@@ -72,7 +73,6 @@ footer {
 
 ol {
     margin: auto;
-
 }
 
 .row {
