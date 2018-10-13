@@ -11,22 +11,19 @@ h1 {
 
 #carouselExampleIndicators {
     width: 100%;
-    max-width: 1000px;
     min-width: 600px;
     margin: auto;
 }
 
 .carousel img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: none;
     height: 500px;
-    max-width: none;
+    object-fit: cover;
+    margin: auto;
+    max-width: 1150px;
   }
 
 .carouselimage {
-    height: 500px;
+
 }
 
 section {
@@ -59,4 +56,23 @@ h2 {
 footer {
     background-color: white;
     min-height: 400px;
+    margin-top: 50px;
 }
+
+ol {
+    margin: auto;
+
+}
+
+.row {
+    margin: 20px 0px;
+}
+
+.featurette-heading {
+    margin-top: 50px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
