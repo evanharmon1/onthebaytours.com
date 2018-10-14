@@ -17,6 +17,13 @@ h1 {
     font-size: 3.5em;
 }
 
+.subtitle {
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    font-size: 2em;
+}
+
 #carouselExampleIndicators {
     width: 100%;
     min-width: 350px;
