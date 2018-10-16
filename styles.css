@@ -142,6 +142,7 @@ ul li {
 
 .card-body {
     font-size: 16px;
+    padding: none;
 }
 
 strong {
@@ -154,7 +155,9 @@ strong {
 }
 
 .card {
-    min-height: 290px;
+    margin: auto;
+    border: none;
+    text-align: center;
 }
 
 .featurette .col-md-5 {
@@ -167,4 +170,5 @@ strong {
 
 .card-body p {
     margin: 5px; 0px;
+    padding: none;
 }
